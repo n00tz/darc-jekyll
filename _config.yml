@@ -32,3 +32,7 @@ future: true
 
 permalink: /event/:title.html
 
+lychee:
+  url: http://gallery.w4drc.gaampr.net
+  album_title_tag: h1
+  link_big_to: lychee

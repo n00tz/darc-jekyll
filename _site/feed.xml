@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dalton Amateur Radio Club</title>
+    <description>Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Dec 2016 05:00:05 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2016 05:00:05 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>DARC Christmas Party</title>
+        <description>&lt;p&gt;Dalton Western Sizzlin
+501 Legion Dr, Dalton, Georgia 30721&lt;/p&gt;
+
+&lt;p&gt;Annual DARC Christmas Party. Also good time to pay your $12/year dues. :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/event/2016xmasparty.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/event/2016xmasparty.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

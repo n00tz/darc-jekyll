@@ -13,6 +13,6 @@ permalink: /about/
 
  The Dalton Amateur Radio Club seeks to advance the state of the art and science of amateur radio communications through education and training, experimentation and research by members, and the free interchange of technical information among amateur radio operators and between members and the general public. The Dalton Amateur Radio Club shall not engage in any activities or exercise any powers that are not in furtherance of these purposes.
 
-<a href="https://github.com/boyney123/evento"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> Evento</a>
+# <a href="https://github.com/boyney123/evento"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> Evento</a>
 
 

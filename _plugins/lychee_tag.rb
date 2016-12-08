@@ -69,10 +69,10 @@ module Jekyll
 
     def render(context)
       # initialize session with Lychee
-      api_url = @config['url'] + "/php/api.php"
+      api_url = @config['url'] + "/php/index.php"
       uri = URI.parse(api_url)
       @http = Net::HTTP.new(uri.host, uri.port)
-      @http.use_ssl = true
+      @http.use_ssl = false
       @request = Net::HTTP::Post.new(uri.request_uri)
       @request['Cookie'] = init_lychee_session
 

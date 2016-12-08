@@ -6,8 +6,8 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Dec 2016 20:09:52 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Dec 2016 20:09:52 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Dec 2016 20:45:49 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2016 20:45:49 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -56,6 +56,16 @@
 &lt;p&gt;Begin to hate yourself for trying new things, and work on your caffiene tolerance at the same time!&lt;/p&gt;
 
 &lt;p&gt;This is just a test of a past event, but its contents probably continue to this day.&lt;/p&gt;
+
+&lt;p&gt;An example of an embedded event album (I hope it works the first time!) &lt;em&gt;(update: it didn’t!)&lt;/em&gt;:&lt;/p&gt;
+
+&lt;h1&gt;Site-Assets&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812280667168&quot; title=&quot;ARRL&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/57d11211dbf23708c46be40ea75dfceb.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812279360114&quot; title=&quot;N4BD SK&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/9cf57e5e5e968e5e25829f3522737a27.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812274801304&quot; title=&quot;santaoperator&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/3d8a919742b3c27f42d9ef2fcc9c0a96.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812273918186&quot; title=&quot;DSC_0922&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/cdb42d673df86674ea4131549682ff3e.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812273362097&quot; title=&quot;amateur-radio&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/3748e32f0bd5a96e3935a8f5485429aa.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812269566733&quot; title=&quot;interwebsatfingertips&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/84213982c3553ac0f54295e06efdf6f2.jpeg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/event/testn0otz.html</link>

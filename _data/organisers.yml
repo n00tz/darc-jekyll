@@ -18,3 +18,16 @@ KI4IG:
     email: ""
     photo: ""
 
+W4DRC:
+    name: Dalton Amateur Radio Club
+    email: ""
+    photo: "https://static.secure.website/wscfus/1409461/2019119/area-nets-latest-003-page-003-w205-o.jpg"
+
+ARRL:
+    name: Amateur Radio Relay League
+    photo: "https://static.secure.website/wscfus/1409461/2019119/area-nets-latest-003-page-003-w205-o.jpg"
+
+Hamfest:
+    name: W4DRC
+    email: "daltonhamfest@yahoo.com"
+    photo: ""

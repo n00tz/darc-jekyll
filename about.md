@@ -1,6 +1,6 @@
 ---
 layout: page
-navigation_title: About
+navigation_title: About W4DRC
 title: About W4DRC
 permalink: /about/
 ---

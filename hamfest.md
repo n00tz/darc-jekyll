@@ -2,6 +2,7 @@
 layout: page
 navigation_title: Hamfest
 title: Hamfest 2017
+cover: "http://w4drc.webstarts.com/uploads/DSC_0922.jpg"
 permalink: /hamfest/
 ---
 
@@ -16,6 +17,12 @@ VE Testing (At nearby Western Sizzlin)
 Boneyard
 
 Concessions
+
+# Date and Time 
+
+Feburary 25, 2017
+
+Gate Opens at 8am
 
 # Admission
 
@@ -51,3 +58,9 @@ Club operators will be monitoring to direct you in from Interstate 75.
 # Vendors
 
 Contact Tom Smith, KI4IG, via phone at 706 581-3350 or [email](mailto:W4DRC@yahoo.com) regarding tables.
+
+# In Memoriam
+
+Harold Jones (N4BD) Our Hamfest Chairman  became a SK on 12/27/11. Words can't describe the passion he had for Ham Radio, The Dalton Amateur Radio Club, and The Dalton Hamfest. He had a unique personality which he shared with family and friends. If you knew Harold, the photo below shows his sense of humor. He was a "ford guy". All DARC Hamfest are dedicated to N4BD SK
+
+<img src="http://w4drc.webstarts.com/uploads/392174_343810632296300_100000020991463_1472266_813394787_n.jpg" />

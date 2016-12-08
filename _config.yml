@@ -19,10 +19,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://w4drc.com" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: David Boyne
-twitter_username: boyney123
-github_username:  boyney123/evento
-company_name: Comparethemarket
+#author: David Boyne
+#twitter_username: boyney123
+#github_username:  boyney123/evento
+#company_name: Comparethemarket
 
 # Build settings
 markdown: kramdown

@@ -1,13 +1,8 @@
-# Evento
+# Credits
+
+This is Dalton Amateur Radio Club's website. It is built on Jekyll using the Evento theme. 
 
 Evento is a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
-
-### Features
-
-* Clean layout
-* Responsive layout
-* Shows future and past events
-* Easy for people to add events
 
 ---
 
@@ -26,11 +21,6 @@ Access via: [http://localhost:4000](http://localhost:4000)
 [Demo](http://evento.davidboyne.co.uk)
 
 [Download](https://github.com/boyney123/evento/archive/master.zip)
-
-### Screen Shot 1
-![Evento - free Jekyll theme](/screenshot.png)
-### Screen Shot 2
-![Evento - free Jekyll theme](/screenshot2.png)
 
 ---
 

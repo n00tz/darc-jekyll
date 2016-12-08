@@ -86,32 +86,56 @@ Create a new .md file or copy an existing post in the  <code class="highlighter-
 
 <p>#Config for posts</p>
 
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="nn">---</span>
-<span class="c1">#leave this alone</span>
-<span class="s">layout</span><span class="pi">:</span> <span class="s">post</span>
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="s">---</span><span class="err">
+</span>
+<span class="c1">#leave this alone
+</span>
+<span class="s">layout</span><span class="pi">:</span> <span class="s">post</span><span class="err">
+</span>
 
-<span class="c1">#Whats the title of your event.</span>
-<span class="s">title</span><span class="pi">:</span>  <span class="s2">"</span><span class="s">Talk</span><span class="nv"> </span><span class="s">on</span><span class="nv"> </span><span class="s">ES6</span><span class="nv"> </span><span class="s">JavaScript"</span>
+<span class="c1">#Whats the title of your event.
+</span>
+<span class="s">title</span><span class="pi">:</span>  <span class="s2">"</span><span class="s">Talk</span><span class="nv"> </span><span class="s">on</span><span class="nv"> </span><span class="s">ES6</span><span class="nv"> </span><span class="s">JavaScript"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="c1">#Url to your cover photo for your event. [optional - default will be used if not given]
+</span>
+<span class="s">cover</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://frontendmasters.com/assets/es6-logo.png"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="c1">#The date of the event. 
+</span>
+<span class="s">date</span><span class="pi">:</span>   <span class="s">2016-02-01 16:04:19 +0000</span><span class="err">
+</span>
 
-<span class="c1">#Url to your cover photo for your event. [optional - default will be used if not given]</span>
-<span class="s">cover</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://frontendmasters.com/assets/es6-logo.png"</span>
-
-<span class="c1">#The date of the event. </span>
-<span class="s">date</span><span class="pi">:</span>   <span class="s">2016-02-01 16:04:19 +0000</span>
-
-<span class="c1">#Start time of the event</span>
-<span class="s">start_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">12:00"</span>
-
-<span class="c1">#end time of the event</span>
-<span class="s">end_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">13:00"</span>
-
-<span class="c1">#event organiser details</span>
-
-<span class="c1">#event organiser details</span>
-<span class="s">organiser</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Frank</span><span class="nv"> </span><span class="s">Smith"</span>
-
-<span class="c1">#Make sure you setup your Organiser details in the _data directory in the organisers.yml file</span>
-
+<span class="c1">#Start time of the event
+</span>
+<span class="s">start_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">12:00"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="c1">#end time of the event
+</span>
+<span class="s">end_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">13:00"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="c1">#event organiser details
+</span>
+<span class="err">
+</span>
+<span class="c1">#event organiser details
+</span>
+<span class="s">organiser</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Frank</span><span class="nv"> </span><span class="s">Smith"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="c1">#Make sure you setup your Organiser details in the _data directory in the organisers.yml file
+</span>
+<span class="err">
+</span>
 <span class="nn">---</span></code></pre></figure>
 
 <p>#Post content</p>
@@ -120,22 +144,37 @@ Create a new .md file or copy an existing post in the  <code class="highlighter-
 
 <p>#Example Post</p>
 
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="nn">---</span>
-<span class="s">layout</span><span class="pi">:</span> <span class="s">post</span>
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="s">---</span><span class="err">
+</span>
+<span class="s">layout</span><span class="pi">:</span> <span class="s">post</span><span class="err">
+</span>
 
-<span class="c1">#event information</span>
-<span class="s">title</span><span class="pi">:</span>  <span class="s2">"</span><span class="s">ReactJS"</span>
-<span class="s">cover</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"</span>
-<span class="s">date</span><span class="pi">:</span>   <span class="s">2016-03-28</span>
-<span class="s">start_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">12:00"</span>
-<span class="s">end_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">13:00"</span>
-
-<span class="c1">#event organiser details</span>
-<span class="s">organiser_email</span><span class="pi">:</span> <span class="s2">"</span><span class="s">david.boyne@test.com"</span>
-<span class="s">organiser_name</span> <span class="pi">:</span> <span class="s2">"</span><span class="s">David</span><span class="nv"> </span><span class="s">Boyne"</span>
-<span class="s">organiser_photo</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://pbs.twimg.com/profile_images/660943257795457030/igA_joVD.jpg"</span>
-
-<span class="nn">---</span>
+<span class="c1">#event information
+</span>
+<span class="s">title</span><span class="pi">:</span>  <span class="s2">"</span><span class="s">ReactJS"</span><span class="err">
+</span>
+<span class="s">cover</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"</span><span class="err">
+</span>
+<span class="s">date</span><span class="pi">:</span>   <span class="s">2016-03-28</span><span class="err">
+</span>
+<span class="s">start_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">12:00"</span><span class="err">
+</span>
+<span class="s">end_time</span><span class="pi">:</span> <span class="s2">"</span><span class="s">13:00"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="c1">#event organiser details
+</span>
+<span class="s">organiser_email</span><span class="pi">:</span> <span class="s2">"</span><span class="s">david.boyne@test.com"</span><span class="err">
+</span>
+<span class="s">organiser_name</span> <span class="pi">:</span> <span class="s2">"</span><span class="s">David</span><span class="nv"> </span><span class="s">Boyne"</span><span class="err">
+</span>
+<span class="s">organiser_photo</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://pbs.twimg.com/profile_images/660943257795457030/igA_joVD.jpg"</span><span class="err">
+</span>
+<span class="err">
+</span>
+<span class="s">---</span><span class="err">
+</span>
 
 I will be doing a small talk on an Introduction into ReactJS. We will cover the following:
 <span class="p">

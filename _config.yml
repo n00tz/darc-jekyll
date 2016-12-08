@@ -12,7 +12,8 @@ title: Dalton Amateur Radio Club
 event_label: Events
 
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+  Seeking to advance the state of art and science of amateur radio communications through education, training, experimentation, and research.
+  Promoting the free interchange of technical information among and between amateur radio operators and the general public.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://w4drc.com" # the base hostname & protocol for your site

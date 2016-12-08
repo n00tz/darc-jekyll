@@ -10,8 +10,11 @@ The Best Hamfest in Georgia
 # Event Details
 
 ARRL Sanctioned
+
 VE Testing (At nearby Western Sizzlin)
+
 Boneyard
+
 Concessions
 
 # Admission
@@ -20,7 +23,7 @@ $5 at the gate. Free Parking.
 
 # Talk In
 
-The Dalton Amateur Radio Club sponsors an open repeater on the top of Fort Mountain, nearby to Dalton. Club operators will be standing by to direct you in from Interstate 75.
+The Dalton Amateur Radio Club sponsors an open repeater on the top of Fort Mountain, nearby to Dalton. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,6 +46,7 @@ The Dalton Amateur Radio Club sponsors an open repeater on the top of Fort Mount
   </tr>
 </table>
 
+Club operators will be monitoring to direct you in from Interstate 75.
 
 # Vendors
 

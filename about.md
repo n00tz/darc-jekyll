@@ -1,18 +1,45 @@
 ---
 layout: page
 navigation_title: About
-title: About Evento
+title: About W4DRC
 permalink: /about/
 ---
 
-[Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
+The Dalton Amateur Radio Club (Dalton, Ga) uses the club call sign W4DRC.
 
-# The Problem I was trying to solve
+# Introduction
 
- The Dalton Amateur Radio Club (Dalton, Ga) uses the club call sign W4DRC. Are you interested in Amateur Radio in the Dalton area? The Dalton Amateur Radio Club (DARC) was organized as a non-profit corporation exclusively for charitable, educational ...and scientific purposes within the meaning of Section 501(c)(3) of the IRS Code. It provides Dalton and the surrounding areas a fully operational and coordinated voluntary noncommercial communications service, operated in compliance with FCC regulations applicable to the amateur radio service. Visitors are most welcome at any of our meetings or events and you can ask all the questions you like about amateur radio! We'll do our best to answer them or find someone who can.
+ Are you interested in Amateur Radio in the Dalton area? The Dalton Amateur Radio Club (DARC) was organized as a non-profit corporation exclusively for charitable, educational ...and scientific purposes within the meaning of Section 501(c)(3) of the IRS Code. It provides Dalton and the surrounding areas a fully operational and coordinated voluntary noncommercial communications service, operated in compliance with FCC regulations applicable to the amateur radio service. Visitors are most welcome at any of our meetings or events and you can ask all the questions you like about amateur radio! We'll do our best to answer them or find someone who can.
 
  The Dalton Amateur Radio Club seeks to advance the state of the art and science of amateur radio communications through education and training, experimentation and research by members, and the free interchange of technical information among amateur radio operators and between members and the general public. The Dalton Amateur Radio Club shall not engage in any activities or exercise any powers that are not in furtherance of these purposes.
+ 
+# Repeater
 
-# <a href="https://github.com/boyney123/evento"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> Evento</a>
+The Dalton Amateur Radio Club sponsors an open repeater on the top of Fort Mountain. All operators are welcome to call.
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e"></th>
+    <th class="tg-031e">Frequency</th>
+    <th class="tg-031e">Offset</th>
+    <th class="tg-yw4l">Tone</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">2-Meter</td>
+    <td class="tg-031e">145.230 Mhz FM</td>
+    <td class="tg-031e">-600 kHz</td>
+    <td class="tg-yw4l">141.3 Hz</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">70-Centimeter</td>
+    <td class="tg-031e">443.000 Mhz FM</td>
+    <td class="tg-031e">+5 Mhz</td>
+    <td class="tg-yw4l">141.3 Hz</td>
+  </tr>
+</table>

@@ -13,10 +13,15 @@ N0OTZ:
     email: "n0otz@n00tz.net"
     photo: "http://gallery.w4drc.gaampr.net/uploads/big/9f7260a10103aec616624de9c1c7de85.jpg"
 
+K4HYJ:
+    name: Hank Blackwood, K4HYJ
+    email: "K4HYJ@arrl.net"
+    photo: "http://gallery.w4drc.gaampr.net/uploads/big/60d213901fdc562e095f63b71443c599.PNG"
+
 KI4IG:
-    name: Tom, KI4IG
+    name: Tom Smith, KI4IG
     email: "ki4ig@windstream.net"
-    photo: ""
+    photo: "http://gallery.w4drc.gaampr.net/uploads/big/19174fae5be3c4292da9d8a55f733c91.PNG"
 
 W4DRC:
     name: Dalton Amateur Radio Club
@@ -26,8 +31,3 @@ W4DRC:
 ARRL:
     name: Amateur Radio Relay League
     photo: "http://gallery.w4drc.gaampr.net/uploads/big/57d11211dbf23708c46be40ea75dfceb.jpg"
-
-Hamfest:
-    name: W4DRC
-    email: "W4DRChamfest@yahoo.com"
-    photo: ""

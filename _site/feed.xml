@@ -6,8 +6,8 @@
 </description>
     <link>http://w4drc.com/</link>
     <atom:link href="http://w4drc.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Dec 2016 03:08:39 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Dec 2016 03:08:39 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Dec 2016 03:40:51 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2016 03:40:51 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -31,6 +31,39 @@
         <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://w4drc.com/event/2017hamfest.html</link>
         <guid isPermaLink="true">http://w4drc.com/event/2017hamfest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Northwest Georgia District Fox Hunt</title>
+        <description>&lt;h1 id=&quot;details&quot;&gt;Details&lt;/h1&gt;
+
+&lt;p&gt;Transmitter will be set for 30 seconds of tones followed by a CW ID on a loop of 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;Fox will be online for a couple hours Friday evening (12/16/2016) for triangulation purposes.&lt;/p&gt;
+
+&lt;p&gt;Net will be held on the Jasper 146.805+ PL 100 Hz machine at 8pm for the exchange of information and heading reports across the district. &lt;em&gt;Any attempts to discover the fox at this time will result in the participant being disqualified from the competition&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Competition begins on Saturday Morning. The Fox will begin its transmission loop at 8am. If not found by 11am, hints will be given via the 146.805+ repeater.&lt;/p&gt;
+
+&lt;h1 id=&quot;prizes&quot;&gt;Prizes&lt;/h1&gt;
+
+&lt;p&gt;Grand Prize is a Baofeng Handheld Radio&lt;/p&gt;
+
+&lt;p&gt;Second Prize is a Flight Aware USB aircraft tracking dongle&lt;/p&gt;
+
+&lt;h1 id=&quot;rules&quot;&gt;Rules&lt;/h1&gt;
+
+&lt;p&gt;No license is required to participate as a listen-only fox hunter.&lt;/p&gt;
+
+&lt;p&gt;Feel free to use any trick or tool at your disposal.&lt;/p&gt;
+
+&lt;p&gt;Anyone from anywhere is welcome to participate.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://w4drc.com/event/2016foxhunt.html</link>
+        <guid isPermaLink="true">http://w4drc.com/event/2016foxhunt.html</guid>
         
         
       </item>

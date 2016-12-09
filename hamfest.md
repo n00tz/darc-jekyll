@@ -12,16 +12,6 @@ The Best Hamfest in Georgia
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.6346804924533!2d-84.96145568427806!3d34.78997098041169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8860756dc823a05f%3A0x1ca05a950164cc0f!2sNorth+Ga+AG+Fair+Association!5e0!3m2!1sen!2sus!4v1481250475611" width="480" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-# Event Details
-
-ARRL Sanctioned
-
-VE Testing (At nearby Western Sizzlin)
-
-Boneyard
-
-Concessions
-
 # Date and Time 
 
 Feburary 25, 2017
@@ -31,6 +21,16 @@ Gate Opens at 8am
 # Admission
 
 $5 at the gate. Free Parking.
+
+# Event Details
+
+ARRL Sanctioned
+
+VE Testing (At nearby Western Sizzlin)
+
+Boneyard
+
+Concessions
 
 # Talk In
 

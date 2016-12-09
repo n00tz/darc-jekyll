@@ -55,6 +55,8 @@ The Dalton Amateur Radio Club sponsors an open repeater on the top of Fort Mount
 
 Club operators will be monitoring to direct you in from Interstate 75.
 
+Test git sync process.
+
 # Vendors
 
 Contact Tom Smith, KI4IG, via phone at 706 581-3350 or [email](mailto:W4DRC@yahoo.com) regarding tables.

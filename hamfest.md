@@ -8,9 +8,7 @@ permalink: /hamfest/
 
 The Best Hamfest in Georgia
 
-# Location
-
-## North Georgia Fairgrounds
+## Location
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d52426.15806334226!2d-84.99428636177659!3d34.78996598527015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e6!4m5!1s0x8860756dc823a05f%3A0x1ca05a950164cc0f!2sNorth+Ga+AG+Fair+Association%2C+500+Legion+Dr%2C+Dalton%2C+GA+30721!3m2!1d34.789971!2d-84.959267!4m4!1s0x0%3A0x1ca05a950164cc0f!3m2!1d34.789971!2d-84.959267!5e0!3m2!1sen!2sus!4v1481250280392" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

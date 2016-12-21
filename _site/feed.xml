@@ -4,10 +4,10 @@
     <title>Dalton Amateur Radio Club</title>
     <description>Seeking to advance the state of art and science of amateur radio communications through education, training, experimentation, and research. Promoting the free interchange of technical information among and between amateur radio operators and the general public.
 </description>
-    <link>http://w4drc.com/</link>
-    <atom:link href="http://w4drc.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Dec 2016 16:29:40 +0000</pubDate>
-    <lastBuildDate>Tue, 13 Dec 2016 16:29:40 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Dec 2016 00:20:19 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 00:20:19 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -29,8 +29,8 @@
 &lt;p&gt;&lt;em&gt;For more information see the &lt;a href=&quot;/hamfest/&quot;&gt;Hamfest page&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://w4drc.com/event/hamfest.html</link>
-        <guid isPermaLink="true">http://w4drc.com/event/hamfest.html</guid>
+        <link>http://0.0.0.0:4000/event/hamfest.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/event/hamfest.html</guid>
         
         
       </item>
@@ -62,8 +62,8 @@
 &lt;p&gt;Anyone from anywhere is welcome to participate.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://w4drc.com/event/foxhunt.html</link>
-        <guid isPermaLink="true">http://w4drc.com/event/foxhunt.html</guid>
+        <link>http://0.0.0.0:4000/event/foxhunt.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/event/foxhunt.html</guid>
         
         
       </item>
@@ -76,8 +76,8 @@
 &lt;p&gt;Annual DARC Christmas Party. Also good time to pay your $12/year dues. :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://w4drc.com/event/xmasparty.html</link>
-        <guid isPermaLink="true">http://w4drc.com/event/xmasparty.html</guid>
+        <link>http://0.0.0.0:4000/event/xmasparty.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/event/xmasparty.html</guid>
         
         
       </item>
@@ -101,8 +101,8 @@
 &lt;a href=&quot;http://gallery.w4drc.gaampr.net#14812267018571/14812269566733&quot; title=&quot;interwebsatfingertips&quot;&gt;&lt;img src=&quot;http://gallery.w4drc.gaampr.net/uploads/thumb/84213982c3553ac0f54295e06efdf6f2.jpeg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
-        <link>http://w4drc.com/event/testn0otz.html</link>
-        <guid isPermaLink="true">http://w4drc.com/event/testn0otz.html</guid>
+        <link>http://0.0.0.0:4000/event/testn0otz.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/event/testn0otz.html</guid>
         
         
       </item>

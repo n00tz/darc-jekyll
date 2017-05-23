@@ -6,9 +6,36 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 May 2017 00:23:08 +0000</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 00:23:08 +0000</lastBuildDate>
+    <pubDate>Tue, 23 May 2017 00:31:45 +0000</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 00:31:45 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Field Day 2017</title>
+        <description>&lt;p&gt;8 am begin setup AI4ZV inside, N4JGW Outside (AI4ZV digital demo throughout the day)&lt;/p&gt;
+
+&lt;p&gt;9 am Antenna build 6,10,20 meter  &lt;br /&gt;
+   dipole/tripole AI4ZV/WI4L/N4JGW&lt;/p&gt;
+
+&lt;p&gt;10 am message handling  class KI4IG/K4HYJ&lt;/p&gt;
+
+&lt;p&gt;11 am lunch KD4ROB
+    June DARC meeting&lt;/p&gt;
+
+&lt;p&gt;Outdoor SOTA set up demo by K4HYJ (after lunch until?)&lt;/p&gt;
+
+&lt;p&gt;12 pm Q&amp;amp;A with Elmers for New Hams (across the table, sit down forum) WI4L, WA4TIV, KI4IG Panel to include KI4IG, WI4L, maybe  others.   There are NO dumb questions here.&lt;/p&gt;
+
+&lt;p&gt;1pm  Soldering De-soldering class with small kit build TBA  KB2SEO&lt;/p&gt;
+
+&lt;p&gt;2 pm contest begins&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/event/fieldday2017.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/event/fieldday2017.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>2017 Dalton Hamfest</title>

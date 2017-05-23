@@ -6,13 +6,19 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 May 2017 00:38:41 +0000</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 00:38:41 +0000</lastBuildDate>
+    <pubDate>Tue, 23 May 2017 00:44:40 +0000</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 00:44:40 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Field Day 2017</title>
-        <description>&lt;p&gt;8 am begin setup AI4ZV inside, N4JGW Outside (AI4ZV digital demo throughout the day)&lt;/p&gt;
+        <description>&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62424.32425149297!2d-85.15860857785374!3d34.685642728415466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88601220200b6d09%3A0x894873712f442960!2sArmuchee+Valley+Community+Center!5e0!3m2!1sen!2sus!4v1495500214006&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;8 am begin setup AI4ZV inside, N4JGW Outside (AI4ZV digital demo throughout the day)&lt;/p&gt;
 
 &lt;p&gt;9 am Antenna build 6,10,20 meter  &lt;br /&gt;
    dipole/tripole AI4ZV/WI4L/N4JGW&lt;/p&gt;

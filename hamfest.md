@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: Hamfest
-title: Hamfest 2017
+title: Hamfest 2018
 cover: "http://gallery.w4drc.gaampr.net/uploads/big/cdb42d673df86674ea4131549682ff3e.jpg"
 permalink: /hamfest/
 ---

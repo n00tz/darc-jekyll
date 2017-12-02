@@ -14,7 +14,7 @@ The Best Hamfest in Georgia
 
 # Date and Time 
 
-Feburary 25, 2017
+Feburary 24, 2018
 
 Gate Opens at 8am
 

@@ -6,8 +6,8 @@
 </description>
     <link>http://w4drc.com/</link>
     <atom:link href="http://w4drc.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Dec 2017 23:29:20 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Dec 2017 23:29:20 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2017 00:58:32 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2017 00:58:32 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -31,6 +31,22 @@
         <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
         <link>http://w4drc.com/event/hamfest.html</link>
         <guid isPermaLink="true">http://w4drc.com/event/hamfest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>DARC Breakfast Bunch</title>
+        <description>&lt;p&gt;Steak and Shake
+1250 W Walnut Ave, Dalton, GA 30720&lt;/p&gt;
+
+&lt;p&gt;Join us for breakfast fellowship and ham radio discussion!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13111.361300723736!2d-84.98994!3d34.75961490000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x35b2654f732eac16!2sSteak+&amp;#39;n+Shake!5e0!3m2!1sen!2sus!4v1512349024162&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://w4drc.com/event/breakfastbunch.html</link>
+        <guid isPermaLink="true">http://w4drc.com/event/breakfastbunch.html</guid>
         
         
       </item>

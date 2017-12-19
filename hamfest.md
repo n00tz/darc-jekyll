@@ -61,7 +61,7 @@ Club operators will be monitoring to direct you in from Interstate 75.
 
 # Vendors
 
-Contact Tom Smith, KI4IG, via phone at 706 581-3350 or [email](mailto:W4DRC@yahoo.com) regarding tables.
+Contact Tom Smith, KI4IG, via phone at 706 618-6097 or [email](mailto:W4DRC@yahoo.com) regarding tables.
 
 # In Memoriam
 

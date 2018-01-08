@@ -7,6 +7,7 @@ permalink: /hamfest/
 ---
 
 The Best Hamfest in Georgia
+<em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2018</a></font></em>
 
 ## Location
 

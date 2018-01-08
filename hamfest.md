@@ -6,7 +6,7 @@ cover: "http://gallery.w4drc.gaampr.net/uploads/big/cdb42d673df86674ea4131549682
 permalink: /hamfest/
 ---
 
-The Best Hamfest in Georgia
+The Best Hamfest in Georgia<br />
 <em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2018</a></font></em>
 
 ## Location

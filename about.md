@@ -2,7 +2,7 @@
 layout: page
 navigation_title: About W4DRC
 title: About W4DRC
-cover: "http://gallery.w4drc.gaampr.net/uploads/big/ccd7190bc56b3cf5b24d022ac2ac4856.jpg"
+cover: "/assets/ccd7190bc56b3cf5b24d022ac2ac4856.jpg"
 permalink: /about/
 ---
 

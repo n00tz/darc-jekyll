@@ -1,7 +1,7 @@
 N4JGW:
     name: Greg Williams, N4JGW
     email: "n4jgw@arrl.net"
-    photo: "http://gallery.w4drc.gaampr.net/uploads/big/473555eef59501e268f337491b56ae2f.jpg"
+    photo: "/assets/473555eef59501e268f337491b56ae2f.jpg"
 
 AI4ZV:
     name: Rial Sloan, AI4ZV
@@ -11,23 +11,23 @@ AI4ZV:
 N0OTZ:
     name: Rial Sloan II, N0OTZ
     email: "n0otz@n00tz.net"
-    photo: "http://gallery.w4drc.gaampr.net/uploads/big/9f7260a10103aec616624de9c1c7de85.jpg"
+    photo: "/assets/9f7260a10103aec616624de9c1c7de85.jpg"
 
 K4HYJ:
     name: Hank Blackwood, K4HYJ
     email: "K4HYJ@arrl.net"
-    photo: "http://gallery.w4drc.gaampr.net/uploads/big/60d213901fdc562e095f63b71443c599.PNG"
+    photo: "/assets/60d213901fdc562e095f63b71443c599.PNG"
 
 KI4IG:
     name: Tom Smith, KI4IG
     email: "ki4ig@windstream.net"
-    photo: "http://gallery.w4drc.gaampr.net/uploads/big/19174fae5be3c4292da9d8a55f733c91.PNG"
+    photo: "/assets/19174fae5be3c4292da9d8a55f733c91.PNG"
 
 W4DRC:
     name: Dalton Amateur Radio Club
     email: "W4DRChamfest@yahoo.com"
-    photo: "http://gallery.w4drc.gaampr.net/uploads/big/abf6f5c10ae0fed928a417e96ea74232.jpg"
+    photo: "/assets/abf6f5c10ae0fed928a417e96ea74232.jpg"
 
 ARRL:
     name: Amateur Radio Relay League
-    photo: "http://gallery.w4drc.gaampr.net/uploads/big/57d11211dbf23708c46be40ea75dfceb.jpg"
+    photo: "/assets/57d11211dbf23708c46be40ea75dfceb.jpg"

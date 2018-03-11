@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "DARC Breakfast Bunch"
-cover: "http://gallery.w4drc.gaampr.net/uploads/big/db23d8554c3735430904ec73c012e1e2.jpg"
+cover: "/assets/db23d8554c3735430904ec73c012e1e2.jpg"
 date:   2017-12-16
 start_time: "8:30a"
 end_time: "10:30a"

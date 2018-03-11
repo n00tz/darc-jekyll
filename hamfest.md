@@ -2,7 +2,7 @@
 layout: page
 navigation_title: Hamfest
 title: Hamfest 2018
-cover: "http://gallery.w4drc.gaampr.net/uploads/big/cdb42d673df86674ea4131549682ff3e.jpg"
+cover: "/assets/cdb42d673df86674ea4131549682ff3e.jpg"
 permalink: /hamfest/
 ---
 
@@ -68,4 +68,4 @@ Contact Tom Smith, KI4IG, via phone at 706 618-6097 or [email](mailto:W4DRC@yaho
 
 Harold Jones (N4BD) Our Hamfest Chairman  became a SK on 12/27/11. Words can't describe the passion he had for Ham Radio, The Dalton Amateur Radio Club, and The Dalton Hamfest. He had a unique personality which he shared with family and friends. If you knew Harold, the photo below shows his sense of humor. He was a "ford guy". All DARC Hamfests are dedicated to N4BD SK
 
-<img src="http://gallery.w4drc.gaampr.net/uploads/big/9cf57e5e5e968e5e25829f3522737a27.jpg" />
+<img src="/assets/9cf57e5e5e968e5e25829f3522737a27.jpg" />

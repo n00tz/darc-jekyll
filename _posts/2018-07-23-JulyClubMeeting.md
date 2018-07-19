@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "W4DRC Club Meeting"
-cover: "/assets/84213982c3553ac0f54295e06efdf6f2.png"
+cover: "/assets/ffthistogram.JPG"
 date:   2018-07-23
 start_time: "6:00p"
 #end_time: "8:00a"

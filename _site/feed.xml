@@ -6,8 +6,8 @@
 </description>
     <link>http://w4drc.com/</link>
     <atom:link href="http://w4drc.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jul 2018 13:56:10 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 13:56:10 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Jul 2018 14:04:15 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Jul 2018 14:04:15 -0500</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -21,6 +21,21 @@
         <pubDate>Sat, 08 Sep 2018 00:00:00 -0500</pubDate>
         <link>http://w4drc.com/event/swapfest.html</link>
         <guid isPermaLink="true">http://w4drc.com/event/swapfest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>W4DRC Club Meeting</title>
+        <description>&lt;p&gt;The meeting will be at the normal place, Dalton Public Works, 532 North Elm St, Dalton, Ga 30721.&lt;/p&gt;
+
+&lt;p&gt;Refreshments at 6 pm and meeting at 6:30 pm.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.0537170015505!2d-84.96398868476572!3d34.7794229804143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8860753fec08d867%3A0xb430479663f16b72!2s532+N+Elm+St%2C+Dalton%2C+GA+30721!5e0!3m2!1sen!2sus!4v1532034903839&quot; width=&quot;480&quot; height=&quot;350&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 27 Aug 2018 00:00:00 -0500</pubDate>
+        <link>http://w4drc.com/event/AugustClubMeeting.html</link>
+        <guid isPermaLink="true">http://w4drc.com/event/AugustClubMeeting.html</guid>
         
         
       </item>
@@ -203,20 +218,6 @@
         <pubDate>Sat, 17 Dec 2016 00:00:00 -0600</pubDate>
         <link>http://w4drc.com/event/foxhunt.html</link>
         <guid isPermaLink="true">http://w4drc.com/event/foxhunt.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>DARC Christmas Party</title>
-        <description>&lt;p&gt;Dalton Western Sizzlin
-501 Legion Dr, Dalton, Georgia 30721&lt;/p&gt;
-
-&lt;p&gt;Annual DARC Christmas Party. Also good time to pay your $12/year dues. :)&lt;/p&gt;
-</description>
-        <pubDate>Sat, 10 Dec 2016 00:00:00 -0600</pubDate>
-        <link>http://w4drc.com/event/xmasparty.html</link>
-        <guid isPermaLink="true">http://w4drc.com/event/xmasparty.html</guid>
         
         
       </item>

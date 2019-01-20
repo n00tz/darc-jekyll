@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: Hamfest
-title: Hamfest 2018
+title: Hamfest 2019
 cover: "/assets/cdb42d673df86674ea4131549682ff3e.jpg"
 permalink: /hamfest/
 ---
@@ -15,7 +15,7 @@ The Best Hamfest in Georgia<br />
 
 # Date and Time 
 
-Feburary 24, 2018
+Feburary 23, 2019
 
 Gate Opens at 8am
 

@@ -3,6 +3,7 @@ layout: page
 title: Join Dalton Amateur Radio Club
 navigation_title: Join
 permalink: /join/
+cover: "/assets/cdb42d673df86674ea4131549682ff3e.jpg"
 button: true
 
 ---

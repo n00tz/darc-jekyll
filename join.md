@@ -8,7 +8,7 @@ button: true
 
 ---
 
-<form class="form-horizontal">
+<form class="form-horizontal" action="https://formspree.io/rial@n00tz.net" method="POST">
 <fieldset>
 
 <!-- Form Name -->
@@ -158,7 +158,7 @@ button: true
 <div class="form-group">
   <label class="col-md-4 control-label" for="submit"></label>
   <div class="col-md-4">
-    <button id="submit" name="submit" class="btn btn-success" action="https://formspree.io/rial@n00tz.net" method="POST">Submit</button>
+    <button id="submit" name="submit" type="submit" class="btn btn-success" value="Send">Submit</button>
   </div>
 </div>
 </fieldset>

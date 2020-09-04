@@ -12,11 +12,15 @@ The Dalton Amateur Radio Club (Dalton, Ga) uses the club call sign W4DRC.
 
  Are you interested in Amateur Radio in the Dalton area? The Dalton Amateur Radio Club (DARC) was organized as a non-profit corporation exclusively for charitable, educational ...and scientific purposes within the meaning of Section 501(c)(3) of the IRS Code. It provides Dalton and the surrounding areas a fully operational and coordinated voluntary noncommercial communications service, operated in compliance with FCC regulations applicable to the amateur radio service. Visitors are most welcome at any of our meetings or events and you can ask all the questions you like about amateur radio! We'll do our best to answer them or find someone who can.
 
+<a href="https://www.qrz.com/db/w4drc">Our QRZ Page</a>
+
  The Dalton Amateur Radio Club seeks to advance the state of the art and science of amateur radio communications through education and training, experimentation and research by members, and the free interchange of technical information among amateur radio operators and between members and the general public. The Dalton Amateur Radio Club shall not engage in any activities or exercise any powers that are not in furtherance of these purposes.
  
 # Repeater
 
-The Dalton Amateur Radio Club sponsors an open repeater on the top of Fort Mountain. All operators are welcome to call.
+The Dalton Amateur Radio Club sponsors an open repeater on Fort Mountain. All operators are welcome to call.
+
+We have updated the 443.000 to Yaesu Fusion and have it connected the the WI4L WIRES-X node 33991...room 43991 which works analog as well.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

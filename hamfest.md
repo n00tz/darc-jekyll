@@ -6,7 +6,7 @@ cover: "/assets/cdb42d673df86674ea4131549682ff3e.jpg"
 permalink: /hamfest/
 ---
 
-The Best Hamfest in Georgia<br />
+The First and Best Hamfest in Georgia<br />
 <em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2018</a></font></em>
 
 ## Location
@@ -21,7 +21,8 @@ Gate Opens at 8am
 
 # Admission
 
-$5 at the gate. Free Parking.
+$5 at the gate. Free Parking. Admission is eligible for all Prize drawings.
+Additional $5 for boneyard.
 
 ## Event Details
 

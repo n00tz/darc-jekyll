@@ -21,7 +21,8 @@ Gate Opens at 8am
 
 # Admission
 
-$5 at the gate. Free Parking.
+$5 at the gate. Free Parking. Admission is eligible for all Prize drawings.
+Additional $5 for boneyard.
 
 ## Event Details
 

@@ -7,7 +7,7 @@ permalink: /hamfest/
 ---
 
 The Best Hamfest in Georgia<br />
-<em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2018</a></font></em>
+<em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2021</a></font></em>
 
 ## Location
 
@@ -15,7 +15,7 @@ The Best Hamfest in Georgia<br />
 
 # Date and Time 
 
-February 22, 2020
+February 27, 2021
 
 Gate Opens at 8am
 

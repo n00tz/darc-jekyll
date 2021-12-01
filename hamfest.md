@@ -1,13 +1,13 @@
 ---
 layout: page
 navigation_title: Hamfest
-title: Hamfest 2021
+title: Hamfest 2022
 cover: "/assets/cdb42d673df86674ea4131549682ff3e.jpg"
 permalink: /hamfest/
 ---
 
 The Best Hamfest in Georgia<br />
-<em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2021</a></font></em>
+<em><font color="red"><a href="https://www.facebook.com/DaltonAmateurRadioClub/">Live on Facebook for 2022</a></font></em>
 
 ## Location
 
@@ -15,14 +15,18 @@ The Best Hamfest in Georgia<br />
 
 # Date and Time 
 
-February 27, 2021
+February 26, 2022
+
+2022 is our 40th year!
 
 Gate Opens at 8am
 
 # Admission
 
-$5 at the gate. Free Parking. Admission is eligible for all Prize drawings.
-Additional $5 for boneyard.
+$5.00 at the gate.  
+Free parking.  
+Admission is eligible for all Prize Drawings.  
+Additional $5.00 for Boneyard space.
 
 ## Event Details
 
@@ -63,7 +67,7 @@ Club operators will be monitoring to direct you in from Interstate 75.
 
 # Vendors
 
-Contact Tom Smith, KI4IG, via phone at 706 618-6097 or contact the club via [email](mailto:W4DRC@yahoo.com) regarding tables.
+Contact Greg Williams, N4JGW, via phone at (706) 537-5988 or contact the club via [email](mailto:W4DRC@yahoo.com) regarding tables.
 
 # In Memoriam
 
